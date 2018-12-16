@@ -1,7 +1,6 @@
-
-{
-  "name": "@types/h21-map-baidu",
-  "version": "1.0.2",
+  "name": "@h21-map/types-baidu",
+  "version": "1.0.4",
+  "scope":"@h21-map",
   "description": "A library of Baidu Map JS API",
   "main": "index.js",
   "scripts": {
@@ -18,6 +17,5 @@
     "angular"
   ],
   "author": "",
-  "license": "",
-  "homepage": ""
+  "license": ""
 }
