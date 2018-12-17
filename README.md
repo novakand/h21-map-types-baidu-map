@@ -1,6 +1,6 @@
 ## @h21-map/types-baidu
 
-## Installation
+### Installation
 ```bash
 npm i @h21-map/types-baidu
 ```
