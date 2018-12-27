@@ -1,8 +1,8 @@
-## @h21-map/types-baidu
+## @h21-map-types/baidu-map
 
 ### Installation
 ```bash
-npm i @h21-map/types-baidu
+npm i @h21-map-types/baidu-map
 ```
 ### Details
 ```bash
